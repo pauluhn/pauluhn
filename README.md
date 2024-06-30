@@ -1,4 +1,4 @@
-## Hi there 👋
+Seasoned and results-driven software engineer with 15+ years of experience in building and architecting exceptional, user-centered mobile experiences across numerous and diverse industries. Mastery in software development lifecycle methodologies to deliver cutting-edge technology on iOS and Android platforms. Highly adept at steering key drivers of strategic planning and product management to maximize ROI.
 
 <!--
 **pauluhn/pauluhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
